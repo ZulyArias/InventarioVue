@@ -236,6 +236,21 @@ h3 {
   border-radius: 5px;
 }
 
+.Totales{
+  /* centrado y fixed en la parte inferior de la pag */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  border: 3px solid #45a049;
+  color: white;
+  background-color: #45a049;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
 .btn {
   background-color: #4caf50;
   color: white;
