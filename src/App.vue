@@ -222,7 +222,7 @@ h3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100vw;
+  width: 90vw;
 }
 
 .TablaPRODS{
@@ -237,7 +237,6 @@ h3 {
 }
 
 .Totales{
-  /* centrado y fixed en la parte inferior de la pag */
   position: fixed;
   bottom: 0;
   left: 0;
